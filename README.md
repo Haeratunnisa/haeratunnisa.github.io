@@ -1,6 +1,6 @@
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo](https://haeratunnisa.github.io/happybirthday/)
+[Demo](https://haeratunnisa.github.io/)
 
 ## 🚀 How to Use
 
